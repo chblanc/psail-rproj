@@ -1,6 +1,6 @@
 # Credit Default Dataset
 
-A data set of default payments for a set of banking clients in Taiwan
+A data set of default payments for a set of banking customers in Taiwan
 
 ## Feature Set
 
